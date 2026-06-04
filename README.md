@@ -21,31 +21,6 @@ Next we will update the project by adding implementations of queues, stacks, bin
   .\<<nameOfTheFile>>.exe then enter
 
 
-# Functions of the code
-
-  #### -createNode
-  creates a node 
-  
-  #### -insertAtFirst
-  inserts a node a the beginning of the linked list
-
-  #### -insertAtPosition
-  inserts a node at a given position of the linked list
-
-  #### -insertAtEnd
-  inserts a node at the end of the linked list
- 
-  #### -deleteFromFirst
-  deletes the first node
-
-  #### -deleteFromPosition
-  deletes the node at a given position
- 
-  #### -deleteFromEnd
-  deletes the last node
-
-  #### -printList
-  displays the whole linked list
  
   
 
